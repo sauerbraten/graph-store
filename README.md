@@ -8,18 +8,18 @@ This package supports values stored in the graph's vertexes. There is a slimmer 
 
 Get the package:
 
-	$ go get github.com/sauerbraten/graph
+	$ go get github.com/sauerbraten/graph-store
 
 Import the package:
 
 	import (
-		"github.com/sauerbraten/graph"
+		graph "github.com/sauerbraten/graph-store"
 	)
 
 
 ## Documentation
 
-For full package documentation, visit http://godoc.org/github.com/sauerbraten/graph.
+For full package documentation, visit http://godoc.org/github.com/sauerbraten/graph-store.
 
 
 ## License
